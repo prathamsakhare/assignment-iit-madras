@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment-iit-madras/static/css/main.35346597.css",
+    "main.js": "/assignment-iit-madras/static/js/main.fbb0ac54.js",
+    "static/js/787.618b1e0c.chunk.js": "/assignment-iit-madras/static/js/787.618b1e0c.chunk.js",
+    "index.html": "/assignment-iit-madras/index.html",
+    "main.35346597.css.map": "/assignment-iit-madras/static/css/main.35346597.css.map",
+    "main.fbb0ac54.js.map": "/assignment-iit-madras/static/js/main.fbb0ac54.js.map",
+    "787.618b1e0c.chunk.js.map": "/assignment-iit-madras/static/js/787.618b1e0c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.35346597.css",
+    "static/js/main.fbb0ac54.js"
+  ]
+}
